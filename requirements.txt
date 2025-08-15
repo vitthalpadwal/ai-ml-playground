@@ -1,5 +1,9 @@
 fastapi
 uvicorn
-ollama
 python-dotenv
 requests
+ollama
+langchain
+langchain-ollama
+langchain-chroma
+pandas
